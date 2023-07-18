@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\bin\Debug\net7.0\solo pruebitaPOO.exe
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\bin\Debug\net7.0\solo pruebitaPOO.deps.json
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\bin\Debug\net7.0\solo pruebitaPOO.runtimeconfig.json
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\bin\Debug\net7.0\solo pruebitaPOO.dll
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\bin\Debug\net7.0\solo pruebitaPOO.pdb
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.dll
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\refint\solo pruebitaPOO.dll
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.pdb
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\solo pruebitaPOO.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Escritorio\solo pruebitaPOO\obj\Debug\net7.0\ref\solo pruebitaPOO.dll

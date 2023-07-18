@@ -1,0 +1,100 @@
+Texto: Libro31
+Palabra / oración de búsqueda: un encuentro sagrado
+Tiempo de duración de la búsqueda: 0.645 ms
+Cantidad de apariciones: 5
+
+Texto: Libro41
+Palabra / oración de búsqueda: despertando la pasion
+Tiempo de duración de la búsqueda: 0.1356 ms
+Cantidad de apariciones: 5
+
+Texto: Libro43
+Palabra / oración de búsqueda: creando una experiencia compartida 
+Tiempo de duración de la búsqueda: 0.0115 ms
+Cantidad de apariciones: 5
+
+Texto: Libro40
+Palabra / oración de búsqueda: crean formas
+Tiempo de duración de la búsqueda: 0.0217 ms
+Cantidad de apariciones: 5
+
+Texto: Libro45
+Palabra / oración de búsqueda: las texturas se combinan en una danza visual
+Tiempo de duración de la búsqueda: 0.0171 ms
+Cantidad de apariciones: 4
+
+Texto: Libro44
+Palabra / oración de búsqueda: la conexion con el entorno natural se 
+Tiempo de duración de la búsqueda: 0.0149 ms
+Cantidad de apariciones: 4
+
+Texto: Libro37
+Palabra / oración de búsqueda: sensaciones profundas
+Tiempo de duración de la búsqueda: 0.0246 ms
+Cantidad de apariciones: 3
+
+Texto: Libro36
+Palabra / oración de búsqueda: Cada sorbo es un
+Tiempo de duración de la búsqueda: 0.8713 ms
+Cantidad de apariciones: 3
+
+Texto: Libro34
+Palabra / oración de búsqueda: arboles centenarios
+Tiempo de duración de la búsqueda: 0.0157 ms
+Cantidad de apariciones: 3
+
+Texto: Libro35
+Palabra / oración de búsqueda: Las palabras se convierten
+Tiempo de duración de la búsqueda: 0.0101 ms
+Cantidad de apariciones: 3
+
+Texto: Libro33
+Palabra / oración de búsqueda: forma de comunicacion
+Tiempo de duración de la búsqueda: 0.021 ms
+Cantidad de apariciones: 3
+
+Texto: Libro32
+Palabra / oración de búsqueda: camino de grava
+Tiempo de duración de la búsqueda: 0.0113 ms
+Cantidad de apariciones: 3
+
+Texto: Libro38
+Palabra / oración de búsqueda: Las luces y las sombras
+Tiempo de duración de la búsqueda: 0.1425 ms
+Cantidad de apariciones: 3
+
+Texto: Libro28
+Palabra / oración de búsqueda: se encuentra con seres
+Tiempo de duración de la búsqueda: 0.0441 ms
+Cantidad de apariciones: 3
+
+Texto: Libro26
+Palabra / oración de búsqueda: se convierte
+Tiempo de duración de la búsqueda: 15.7513 ms
+Cantidad de apariciones: 3
+
+Texto: Libro29
+Palabra / oración de búsqueda: supera obstaculos
+Tiempo de duración de la búsqueda: 0.09 ms
+Cantidad de apariciones: 2
+
+Texto: Libro42
+Palabra / oración de búsqueda: la luz y el paisaje
+Tiempo de duración de la búsqueda: 0.0202 ms
+Cantidad de apariciones: 2
+
+Texto: Libro30
+Palabra / oración de búsqueda: Este relato
+Tiempo de duración de la búsqueda: 0.008 ms
+Cantidad de apariciones: 1
+
+Texto: Libro39
+Palabra / oración de búsqueda: Las risas y las conversaciones
+Tiempo de duración de la búsqueda: 0.041 ms
+Cantidad de apariciones: 1
+
+Texto: Libro27
+Palabra / oración de búsqueda: se encuentra con seres
+Tiempo de duración de la búsqueda: 0.0371 ms
+Cantidad de apariciones: 0
+
